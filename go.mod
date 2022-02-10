@@ -1,4 +1,4 @@
-module Kage-Solutions-MC-Go
+module github.com/KageSolutions/Kage-Solutions-MC-Go
 
 go 1.17
 

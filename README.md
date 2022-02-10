@@ -5,7 +5,7 @@
 [![GO](https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 
 ## Set variables
-```
+```go
 var (
     apiHost = "api.example.com"
     clientKey = "YOUR_CLIENT_API_KEY"

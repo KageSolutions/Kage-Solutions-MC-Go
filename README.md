@@ -1,4 +1,4 @@
-# [KageAIO Backend](https://github.com/KageSolutions/Kage-Solutions-MC-Go)
+# [Kage Solutions - Finishline & JDSports Captcha API Integration](https://github.com/KageSolutions/Kage-Solutions-MC-Go)
 
 ## Requirements
 
